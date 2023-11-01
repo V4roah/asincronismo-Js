@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/V4roah/asincronismo-Js/issues"
   },
-  "homepage": "https://github.com/V4roah/asincronismo-Js#readme"
+  "homepage": "https://github.com/V4roah/asincronismo-Js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
